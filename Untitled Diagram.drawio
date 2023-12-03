@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T19:20:26.434Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h3kBKZBhngL4Rby-wfvi" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-03T19:22:59.627Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="JHIbLtN13yHmLCFtZu30" version="22.1.5" type="github">
   <diagram name="Page-1" id="f_e8XU72B6Su-IU8muHf">
     <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="K9ffOVtquZdkAMF9Na8i-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
+        <mxCell id="K9ffOVtquZdkAMF9Na8i-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="K9ffOVtquZdkAMF9Na8i-1" target="K9ffOVtquZdkAMF9Na8i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ffOVtquZdkAMF9Na8i-1" value="Person" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ffOVtquZdkAMF9Na8i-2" value="Age" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="190" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ffOVtquZdkAMF9Na8i-3" value="Gender" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ffOVtquZdkAMF9Na8i-5" value="Conditionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="270" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
